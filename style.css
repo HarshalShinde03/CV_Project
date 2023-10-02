@@ -84,12 +84,13 @@ h2 span{
     display: grid;
     /* border: 2px solid red; */
     grid-template-columns: 2fr 3fr;
-    gap: 10%;
+    gap: 1%;
 }
 
 #bottom #left{
     /* background-color: brown; */
     margin-top: 15%;
+    
     /* border: 2px solid orchid; */
     margin-left: 5vh;
 }
@@ -182,7 +183,7 @@ a {
 }
 #right{
     /* border: 2px solid yellow; */
-    /* margin-left: 2%; */
+    margin-left: 10%;
     margin-right: 5vh;
 }
 .edu_group{
@@ -229,7 +230,7 @@ a {
 }
 
 #hobbies ul{
-    margin: 2vh;
+    margin: 2vh 0;
     display: flex;
     justify-content: start;
     gap: 5%;
